@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-levy-logpdf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lévy distribution logarithm of probability density function (PDF).",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/constants-float64-ln-two-pi": "^0.1.1",
     "@stdlib/constants-float64-ninf": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-ln": "^0.1.0",
+    "@stdlib/math-base-special-ln": "^0.1.1",
     "@stdlib/utils-constant-function": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
