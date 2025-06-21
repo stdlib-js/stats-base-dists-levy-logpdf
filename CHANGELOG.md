@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`4f869cf`](https://github.com/stdlib-js/stdlib/commit/4f869cf32ebce5318a88343471b8ea884c29448e) - **test:** fix tolerances _(by Athan Reines)_
+-   [`84f5212`](https://github.com/stdlib-js/stdlib/commit/84f5212d586c237d0f3b8b191991c342a754f866) - **chore:** remove extra blank line _(by Athan Reines)_
 -   [`2355e5d`](https://github.com/stdlib-js/stdlib/commit/2355e5d18ee7962e028a732ac76026a512f35f23) - **docs:** add missing periods _(by Philipp Burckhardt)_
 -   [`70c26f9`](https://github.com/stdlib-js/stdlib/commit/70c26f984a2a6e6fd73f57398498fcf4985e56ad) - **feat:** add C implementation for `stats/base/dists/levy/logpdf` _(by Philipp Burckhardt)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
