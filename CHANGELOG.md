@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-06-21)
+
+<section class="features">
+
+### Features
+
+-   [`70c26f9`](https://github.com/stdlib-js/stdlib/commit/70c26f984a2a6e6fd73f57398498fcf4985e56ad) - add C implementation for `stats/base/dists/levy/logpdf`
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`70c26f9`](https://github.com/stdlib-js/stdlib/commit/70c26f984a2a6e6fd73f57398498fcf4985e56ad) - **feat:** add C implementation for `stats/base/dists/levy/logpdf` _(by Philipp Burckhardt)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
 </details>
@@ -36,10 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Hemant M Mehta
+-   Philipp Burckhardt
 
 </section>
 
