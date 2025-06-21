@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2355e5d`](https://github.com/stdlib-js/stdlib/commit/2355e5d18ee7962e028a732ac76026a512f35f23) - **docs:** add missing periods _(by Philipp Burckhardt)_
 -   [`70c26f9`](https://github.com/stdlib-js/stdlib/commit/70c26f984a2a6e6fd73f57398498fcf4985e56ad) - **feat:** add C implementation for `stats/base/dists/levy/logpdf` _(by Philipp Burckhardt)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
