@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-21)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3cf6f11`](https://github.com/stdlib-js/stdlib/commit/3cf6f1197da802f472735e132e8994bda4ae364c) - **docs:** update `stats/base/dists/levy` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`4f869cf`](https://github.com/stdlib-js/stdlib/commit/4f869cf32ebce5318a88343471b8ea884c29448e) - **test:** fix tolerances _(by Athan Reines)_
 -   [`84f5212`](https://github.com/stdlib-js/stdlib/commit/84f5212d586c237d0f3b8b191991c342a754f866) - **chore:** remove extra blank line _(by Athan Reines)_
 -   [`2355e5d`](https://github.com/stdlib-js/stdlib/commit/2355e5d18ee7962e028a732ac76026a512f35f23) - **docs:** add missing periods _(by Philipp Burckhardt)_
