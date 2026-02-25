@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-24)
+## Unreleased (2026-02-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`685691c`](https://github.com/stdlib-js/stdlib/commit/685691c6065af53a0527bcd690d1ade468f452df) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`0c1fea4`](https://github.com/stdlib-js/stdlib/commit/0c1fea42a94d1ec0d4ba8e9f29e411f0f3515041) - **bench:** update random value generation for `stats/base/dists/levy` [(#10449)](https://github.com/stdlib-js/stdlib/pull/10449) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`bdd38d9`](https://github.com/stdlib-js/stdlib/commit/bdd38d971f4c0a24d43aca632ca5098cc0b90332) - **bench:** refactor to use string interpolation in `stats/base/dists/levy` [(#10444)](https://github.com/stdlib-js/stdlib/pull/10444) _(by Vishal Gaikwad)_
 
